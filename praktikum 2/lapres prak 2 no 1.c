@@ -6,4 +6,6 @@ void main()
     jawab = 100;
     hasil = jawab - 10;
     printf("Jawabannya adalah %d\n", hasil + 6);
+    
+    printf("hello world!);
 }
