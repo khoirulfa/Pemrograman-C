@@ -20,3 +20,4 @@ void main()
     printf("total harga : Rp.%d\n", total);
 
 }
+// aku bingung nambah opo, acc ae yo cek nambahi nggenku:v
